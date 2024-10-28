@@ -1,8 +1,8 @@
 # github-profile
 
 <h1 align="center">Hi 👋, I'm Pintu Kumar</h1>
-<h3 align="center">A passionate Junior Software Engineer from India</h3>
-<img align="right" alt="Coding" width=400 src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif>
+<h3 align="center">A passionate Software Engineer from India</h3>
+<img align="right" alt="Coding" width=400 src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://github.com/rudrabarad/Gifs)>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pintukumar45&label=Profile%20views&color=0e75b6&style=flat" alt="pintukumar45" /> </p>
 
